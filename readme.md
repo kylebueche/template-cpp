@@ -1,4 +1,4 @@
-# A GCC + Makefile Template for Writing C Code
+# A GCC + Makefile Template for Writing C++ Code
 
  - Clone this repository
  - make manages dependencies in src/ automatically!
